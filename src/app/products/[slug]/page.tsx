@@ -3,7 +3,6 @@ import { Fragment } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { T } from "@/components/i18n/LangProvider";
 import InquiryActions from "@/components/catalog/InquiryActions";
 import ProductGallery from "@/components/catalog/ProductGallery";
 import ProductNav from "@/components/catalog/ProductNav";
@@ -14,11 +13,6 @@ export const dynamicParams = false;
 export const generateStaticParams = () => getVisibleProducts().map((p) => ({ slug: p.slug }));
 
 type Props = { params: Promise<{ slug: string }> };
-
-/** Owner-approved English for the attribute labels in use (values stay as the owner wrote them). */
-const ATTR_EN: Record<string, string> = {
-  "ไซซ์": "Size", "วัสดุ": "Material", "น้ำหนักทอง": "Gold weight", "น้ำหนักเพชร": "Diamond weight", "ขนาดตัวเรือน": "Case size",
-};
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const p = getProductBySlug((await params).slug);
@@ -43,8 +37,8 @@ export default async function ProductPage({ params }: Props) {
     <section className="section section--white" style={{ paddingTop: "var(--sp-7)" }}>
       <div className="container">
         <nav className="crumbs" aria-label="เส้นทาง">
-          <Link href="/products"><T th="สินค้าและเครื่องประดับ" en="Collection" /></Link>
-          {cat && <> <span aria-hidden="true">/</span> <Link href={`/products?category=${cat.slug}`}><T th={cat.nameTh} en={cat.nameEn} /></Link></>}
+          <Link href="/products">สินค้าและเครื่องประดับ</Link>
+          {cat && <> <span aria-hidden="true">/</span> <Link href={`/products?category=${cat.slug}`}>{cat.nameTh}</Link></>}
         </nav>
 
         <div className="pdetail">
@@ -61,16 +55,16 @@ export default async function ProductPage({ params }: Props) {
 
             {(p.confirmed.productCode && p.productCode) || (p.confirmed.price && p.price !== null) || (p.confirmed.attributes && p.attributes.length > 0) ? (
               <dl className="specs">
-                {p.confirmed.productCode && p.productCode && (<Fragment><dt><T th="รหัสสินค้า" en="Product code" /></dt><dd>{p.productCode}</dd></Fragment>)}
-                {p.confirmed.price && p.price !== null && (<Fragment><dt><T th="ราคา" en="Price" /></dt><dd><T th={`${p.price.toLocaleString("th-TH")} บาท`} en={`THB ${p.price.toLocaleString("en-US")}`} /></dd></Fragment>)}
-                {p.confirmed.attributes && p.attributes.map((a) => (<Fragment key={a.label}><dt><T th={a.label} en={ATTR_EN[a.label]} /></dt><dd>{a.value}</dd></Fragment>))}
+                {p.confirmed.productCode && p.productCode && (<Fragment><dt>รหัสสินค้า</dt><dd>{p.productCode}</dd></Fragment>)}
+                {p.confirmed.price && p.price !== null && (<Fragment><dt>ราคา</dt><dd>{p.price.toLocaleString("th-TH")} บาท</dd></Fragment>)}
+                {p.confirmed.attributes && p.attributes.map((a) => (<Fragment key={a.label}><dt>{a.label}</dt><dd>{a.value}</dd></Fragment>))}
               </dl>
             ) : null}
 
             {!isDraft && (
               <>
                 <hr className="rule-gold" />
-                <p><T th="สนใจสินค้าชิ้นนี้ สอบถามรายละเอียดได้ที่สาขา" en="Interested in this piece? Ask for details at a branch." /></p>
+                <p>สนใจสินค้าชิ้นนี้ สอบถามรายละเอียดได้ที่สาขา</p>
                 <InquiryActions />
               </>
             )}
