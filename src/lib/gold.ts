@@ -1,3 +1,4 @@
+
 export interface GoldPriceData {
   goldBarBuy: number;
   goldBarSell: number;
@@ -6,6 +7,9 @@ export interface GoldPriceData {
   change: number;
   updatedAt: string;
 }
+
+// Compatibility export for components importing GoldPrices
+export type GoldPrices = GoldPriceData;
 
 export async function getGold() {
   try {
