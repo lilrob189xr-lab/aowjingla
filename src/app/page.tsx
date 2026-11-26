@@ -45,7 +45,7 @@ export default function HomePage() {
           </div>
         </div>
         <div className="bleed">
-          <Photo photo={photos["CEBE7D37"]} ratio="4 / 3" priority sizes="100vw" focus="center 55%" tag="สาขาเซ็นทรัล ภูเก็ต ฟลอเรสต้า" />
+          <Photo photo={photos["CEBE7D37"]} ratio="4 / 3" priority sizes="(min-width: 1100px) 54vw, 100vw" focus="center 55%" tag="สาขาเซ็นทรัล ภูเก็ต ฟลอเรสต้า" />
         </div>
       </section>
 
