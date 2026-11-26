@@ -4,9 +4,7 @@ import { photosOf } from "@/data/photos";
 import { siteUrl } from "@/lib/site";
 import Photo from "@/components/ui/Photo";
 import OpenStatus from "@/components/i18n/OpenStatus";
-import Link from "next/link";
-import { T } from "@/components/i18n/LangProvider";
-import KaiRichyMapSection from "@/components/brand/KaiRichyMapSection";
+import ContactCta from "@/components/brand/ContactCta";
 
 export const metadata: Metadata = {
   title: "สาขาของเรา",
@@ -35,12 +33,10 @@ export default function LocationsPage() {
       <section className="page-hero">
         <div className="container">
           <p className="label gold">Locations</p>
-          <h1><T th="สาขาของเรา" en="Our Branches" /></h1>
-          <p className="reading lead"><T th="สองสาขาในจังหวัดภูเก็ต" en="Two branches in Phuket" /></p>
+          <h1>สาขาของเรา</h1>
+          <p className="reading lead">สองสาขาในจังหวัดภูเก็ต</p>
         </div>
       </section>
-
-      <KaiRichyMapSection />
 
       {branches.map((b, idx) => {
         const all = photosOf(b.id);
@@ -52,21 +48,20 @@ export default function LocationsPage() {
             <div className="container loc-block">
               <div className="loc-block__info">
                 <p className="loc-no en">{b.number}</p>
-                <p className="label"><T th={`สาขา ${b.number}`} en={`Branch ${b.number}`} /></p>
+                <p className="label">สาขา {b.number}</p>
                 <h2>{b.brandName}</h2>
                 <p className="bcard__name">{b.nameTh}</p>
                 <dl className="facts facts--large">
-                  {b.locationNote && (<><dt><T th="ตำแหน่ง" en="Location" /></dt><dd>{b.locationNote}</dd></>)}
-                  <dt><T th="ที่อยู่" en="Address" /></dt><dd>{b.address}</dd>
-                  <dt><T th="เวลาเปิดทำการ" en="Opening hours" /></dt><dd><T th={b.hours} en={b.hoursEn} /><OpenStatus openMin={b.openMin} closeMin={b.closeMin} /></dd>
-                  <dt><T th="โทรศัพท์" en="Telephone" /></dt><dd><a href={b.phoneHref}>{b.phoneDisplay}</a></dd>
-                  {b.services.xray && (<><dt><T th="ตรวจสอบด้วยเครื่อง X-Ray" en="X-Ray testing" /></dt><dd><T th="มีบริการ" en="Available" /></dd></>)}
-                  {b.services.goldMelting && (<><dt><T th="บริการหลอมทอง" en="Gold melting" /></dt><dd><T th="มีบริการ (เฉพาะสาขานี้)" en="Available (this branch only)" /></dd></>)}
+                  {b.locationNote && (<><dt>ตำแหน่ง</dt><dd>{b.locationNote}</dd></>)}
+                  <dt>ที่อยู่</dt><dd>{b.address}</dd>
+                  <dt>เวลาเปิดทำการ</dt><dd>{b.hours}<OpenStatus openMin={b.openMin} closeMin={b.closeMin} /></dd>
+                  <dt>โทรศัพท์</dt><dd><a href={b.phoneHref}>{b.phoneDisplay}</a></dd>
+                  {b.services.xray && (<><dt>ตรวจสอบด้วยเครื่อง X-Ray</dt><dd>มีบริการ</dd></>)}
+                  {b.services.goldMelting && (<><dt>บริการหลอมทอง</dt><dd>มีบริการ (เฉพาะสาขานี้)</dd></>)}
                 </dl>
                 <div className="inquiry">
-                  <a className="btn btn--primary" href={b.phoneHref}><T th="โทร" en="Call" /> {b.phoneDisplay}</a>
-                  <a className="btn btn--secondary" href={b.mapsUrl} target="_blank" rel="noopener noreferrer"><T th="เปิดใน Google Maps" en="Open in Google Maps" /></a>
-                  <Link className="link-gold bcard__more" href={`/locations/${b.id}`}><T th="ดูรายละเอียดสาขา" en="Branch details" /><span className="sr-only"> {b.brandName}</span></Link>
+                  <a className="btn btn--primary" href={b.phoneHref}>โทร {b.phoneDisplay}</a>
+                  <a className="btn btn--secondary" href={b.mapsUrl} target="_blank" rel="noopener noreferrer">เปิดใน Google Maps</a>
                 </div>
               </div>
               <div className="loc-photos">
@@ -81,6 +76,8 @@ export default function LocationsPage() {
           </section>
         );
       })}
+
+      <ContactCta />
     </div>
   );
 }
