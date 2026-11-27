@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Cormorant_Garamond, Inter, IBM_Plex_Sans_Thai, Noto_Sans_Thai } from "next/font/google";
+import { Cormorant_Garamond, Source_Serif_4, Noto_Serif_Thai } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
@@ -9,9 +9,8 @@ import { LangProvider } from "@/components/i18n/LangProvider";
 import { siteUrl } from "@/lib/site";
 
 const cormorant = Cormorant_Garamond({ subsets: ["latin"], weight: ["300", "400", "500", "600"], variable: "--font-cormorant", display: "swap" });
-const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
-const plexThai = IBM_Plex_Sans_Thai({ subsets: ["thai", "latin"], weight: ["300", "400", "500", "600"], variable: "--font-plex-thai", display: "swap" });
-const notoThai = Noto_Sans_Thai({ subsets: ["thai"], variable: "--font-noto-thai", display: "swap" });
+const sourceSerif = Source_Serif_4({ subsets: ["latin"], variable: "--font-serif-latin", display: "swap" });
+const notoSerifThai = Noto_Serif_Thai({ subsets: ["thai", "latin"], weight: ["300", "400", "500", "600"], variable: "--font-serif-thai", display: "swap" });
 
 export const metadata: Metadata = {
   ...(siteUrl ? { metadataBase: new URL(siteUrl) } : {}),
@@ -25,7 +24,7 @@ export const viewport: Viewport = { width: "device-width", initialScale: 1, them
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="th" className={`${cormorant.variable} ${inter.variable} ${plexThai.variable} ${notoThai.variable}`}>
+    <html lang="th" className={`${cormorant.variable} ${sourceSerif.variable} ${notoSerifThai.variable}`}>
       <body>
         <LangProvider>
           <a href="#main" className="skip-link">ข้ามไปยังเนื้อหา</a>
