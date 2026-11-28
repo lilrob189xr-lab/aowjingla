@@ -1,6 +1,7 @@
 import type { CategoryId } from "./categories";
 import type { ProductTypeId } from "./productTypes";
 import manifest from "./catalog-manifest.json";
+import cutsManifest from "./cuts-manifest.json";
 
 export type ProductStatus = "draft" | "published";
 /** "owner-confirmed": name, details and photo pairing confirmed. "photo-needs-owner-confirmation": name/details confirmed, but which photo belongs to the item is not. */
@@ -230,4 +231,33 @@ for (const p of products) {
   ];
   p.images = p.images.map((im) => ({ ...im, alt: `${d.name} ภาพถ่ายสินค้าจริงของ KAI RICHY` }));
   p.confirmed = { ...p.confirmed, name: true, description: true, attributes: p.attributes.length > 0 };
+}
+
+// ---- Cuts_Luxury_English_Folders (Nov 28 2026) ----
+// Real product photos only (no screenshots). Group "kr-001-extra" holds extra photos of the green-dial Rolex and is merged into the existing
+// kr-001 gallery (confirmed same watch); every other group becomes a DRAFT record: hidden, no name/code/price/details until the owner confirms.
+// Ids use the "cuts-" prefix because the Products-series KR numbers in the Cuts folders are a different series from the catalog ids kr-0xx.
+interface CutsVariant { src: string; width: number; height: number }
+interface CutsImage { stem: string; variants: { gallery: CutsVariant; card: CutsVariant; thumb: CutsVariant } }
+interface CutsGroup { id: string; folder: string; label: string; images: CutsImage[]; mergeInto?: string }
+const cutsImage = (i: CutsImage, alt: string): ProductImage => ({
+  assetId: i.stem, src: i.variants.gallery.src, width: i.variants.gallery.width, height: i.variants.gallery.height,
+  alt, card: i.variants.card, thumb: i.variants.thumb,
+});
+for (const g of cutsManifest.groups as unknown as CutsGroup[]) {
+  if (g.mergeInto) {
+    const target = products.find((p) => p.id === g.mergeInto);
+    if (target) target.images.push(...g.images.map((i) => cutsImage(i, target.name ? `${target.name} ภาพถ่ายสินค้าจริงของ KAI RICHY` : "ภาพถ่ายสินค้าจริงของ KAI RICHY")));
+    continue;
+  }
+  products.push({
+    id: g.id, slug: g.id, status: "draft",
+    internal: {
+      sourceAssetIds: g.images.map((i) => i.stem), ownerGroup: g.folder, ownerLabelUnverified: g.label,
+      note: "From Cuts_Luxury_English_Folders. Folder label is not verified. Name, category, code and details await owner confirmation.",
+    },
+    name: null, category: null, productType: null, description: null,
+    images: g.images.map((i) => cutsImage(i, "ภาพถ่ายสินค้าจริงของ KAI RICHY")),
+    productCode: null, price: null, attributes: [], confirmed: { ...NONE },
+  });
 }
