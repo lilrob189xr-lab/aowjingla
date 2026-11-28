@@ -1,0 +1,1097 @@
+{
+  "source": "KAI_RICHY_DB_v4",
+  "groups": [
+    {
+      "id": "KR-001",
+      "folder": "KR-001_Watch",
+      "ownerType": "Watch",
+      "ownerLabel": "Rolex Oyster Perpetual",
+      "status": "integrated",
+      "holdReason": null,
+      "images": [
+        {
+          "file": "KR-001_01_main.jpg",
+          "stem": "KR-001_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "07986D2E-8E8C-49EE-A0BB-6CB370FB8284.JPEG",
+          "md5": "bb76f9453aeb81233847e3d58d0d5e10",
+          "origWidth": 450,
+          "origHeight": 800,
+          "edits": [],
+          "flag": "visible handwritten date tag and card numbers on the watch papers (owner to decide on blurring)",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-001/KR-001_01_main-gallery.jpg",
+              "width": 450,
+              "height": 800
+            },
+            "card": {
+              "src": "/images/catalog/KR-001/KR-001_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-001/KR-001_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        },
+        {
+          "file": "KR-001_05_detail.jpg",
+          "stem": "KR-001_05_detail",
+          "role": "detail",
+          "sort": 5,
+          "ownerFilename": "C91FBA86-B068-4692-BCCE-CDCCEC132789.JPEG",
+          "md5": "ce345a6ef497ef9c2c4669b45a4b246c",
+          "origWidth": 450,
+          "origHeight": 800,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-001/KR-001_05_detail-gallery.jpg",
+              "width": 450,
+              "height": 800
+            },
+            "card": {
+              "src": "/images/catalog/KR-001/KR-001_05_detail-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-001/KR-001_05_detail-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-002",
+      "folder": "KR-002_Ring",
+      "ownerType": "Ring",
+      "ownerLabel": "Cartier Love Ring (Silver)",
+      "status": "integrated",
+      "holdReason": null,
+      "images": [
+        {
+          "file": "KR-002_01_main.jpg",
+          "stem": "KR-002_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "04FE5722-AA0C-4169-948D-AF8CE25F4D09.JPEG",
+          "md5": "8549890552823ca98961fcae3f99122c",
+          "origWidth": 601,
+          "origHeight": 800,
+          "edits": [
+            "price/spec text overlay cropped out"
+          ],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-002/KR-002_01_main-gallery.jpg",
+              "width": 601,
+              "height": 592
+            },
+            "card": {
+              "src": "/images/catalog/KR-002/KR-002_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-002/KR-002_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        },
+        {
+          "file": "KR-002_02_detail.jpg",
+          "stem": "KR-002_02_detail",
+          "role": "detail",
+          "sort": 2,
+          "ownerFilename": "FDF2300D-CD0D-4CD3-A456-E6EDA9A2457C.JPEG",
+          "md5": "4db8bf07e1a222692c6d6157f125b892",
+          "origWidth": 600,
+          "origHeight": 800,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-002/KR-002_02_detail-gallery.jpg",
+              "width": 600,
+              "height": 800
+            },
+            "card": {
+              "src": "/images/catalog/KR-002/KR-002_02_detail-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-002/KR-002_02_detail-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-003",
+      "folder": "KR-003_Belt",
+      "ownerType": "Belt",
+      "ownerLabel": "Gold Openwork Belt / Waist Chain",
+      "status": "integrated",
+      "holdReason": null,
+      "images": [
+        {
+          "file": "KR-003_01_main.jpg",
+          "stem": "KR-003_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "24971FCF-7287-4779-A558-1F679179686E.JPEG",
+          "md5": "10074db4a8b6988e93d29f27d2cecd38",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-003/KR-003_01_main-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-003/KR-003_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-003/KR-003_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        },
+        {
+          "file": "KR-003_03_detail.jpg",
+          "stem": "KR-003_03_detail",
+          "role": "detail",
+          "sort": 3,
+          "ownerFilename": "2C323D3F-2A5F-4792-8E54-5E401747660A.JPEG",
+          "md5": "9626aef3969fbc09418659d51a58c608",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-003/KR-003_03_detail-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-003/KR-003_03_detail-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-003/KR-003_03_detail-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-004",
+      "folder": "KR-004_Ring",
+      "ownerType": "Ring",
+      "ownerLabel": "Jubilee Diamond Heart Ring",
+      "status": "integrated",
+      "holdReason": null,
+      "images": [
+        {
+          "file": "KR-004_01_main.jpg",
+          "stem": "KR-004_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "3CE7D43D-A241-42CA-BC97-6DEB2A408ADC.JPEG",
+          "md5": "c4a011f4055db070d7f6e64f1a6935bc",
+          "origWidth": 450,
+          "origHeight": 800,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-004/KR-004_01_main-gallery.jpg",
+              "width": 450,
+              "height": 800
+            },
+            "card": {
+              "src": "/images/catalog/KR-004/KR-004_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-004/KR-004_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        },
+        {
+          "file": "KR-004_02_detail.jpg",
+          "stem": "KR-004_02_detail",
+          "role": "detail",
+          "sort": 2,
+          "ownerFilename": "500E03C7-D2B3-4443-A8BB-7547C4531BA8.JPEG",
+          "md5": "0865735fbb5021416e8cf3f4f2078db7",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-004/KR-004_02_detail-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-004/KR-004_02_detail-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-004/KR-004_02_detail-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-005",
+      "folder": "KR-005_Ring",
+      "ownerType": "Ring",
+      "ownerLabel": "Rosendorff / Piaget Diamond Band",
+      "status": "integrated",
+      "holdReason": null,
+      "images": [
+        {
+          "file": "KR-005_01_main.jpg",
+          "stem": "KR-005_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "3E50FFCF-CDA4-4AEA-A2C7-A709DF4458A7.JPEG",
+          "md5": "1e806540fac684d6f46f0c5ba1c45cac",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-005/KR-005_01_main-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-005/KR-005_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-005/KR-005_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        },
+        {
+          "file": "KR-005_02_detail.jpg",
+          "stem": "KR-005_02_detail",
+          "role": "detail",
+          "sort": 2,
+          "ownerFilename": "72077592-7EE8-42AD-8145-8594480F4378.JPEG",
+          "md5": "b9a66b2d298c1856c80e8b10158a8bc9",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-005/KR-005_02_detail-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-005/KR-005_02_detail-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-005/KR-005_02_detail-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-006",
+      "folder": "KR-006_Gold_Set",
+      "ownerType": "Gold Frame",
+      "ownerLabel": "Gold frames on a tray (owner-confirmed gold frame)",
+      "status": "unpublished",
+      "holdReason": "Owner-confirmed gold frame. Frames/amulet items are not published and Amulet Frames stays empty until the owner authorizes it",
+      "images": [
+        {
+          "file": "KR-006_01_main.jpg",
+          "stem": "KR-006_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "3F4A788A-8796-46B4-81B8-A42A5420AAD3.JPEG",
+          "md5": "366673e6be5d32b4f038b597bf09118c",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [
+            "rotated upright (stored sideways)"
+          ],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-006/KR-006_01_main-gallery.jpg",
+              "width": 600,
+              "height": 800
+            },
+            "card": {
+              "src": "/images/catalog/KR-006/KR-006_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-006/KR-006_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        },
+        {
+          "file": "KR-006_02_detail.jpg",
+          "stem": "KR-006_02_detail",
+          "role": "detail",
+          "sort": 2,
+          "ownerFilename": "CD0AD21D-9D8A-4252-9B40-5EF26C028C23.JPEG",
+          "md5": "7ffb8c6ce1682ecf91a11afb91e9b194",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [
+            "rotated upright (stored sideways)"
+          ],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-006/KR-006_02_detail-gallery.jpg",
+              "width": 600,
+              "height": 800
+            },
+            "card": {
+              "src": "/images/catalog/KR-006/KR-006_02_detail-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-006/KR-006_02_detail-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-007",
+      "folder": "KR-007_Pendant",
+      "ownerType": "Pendant",
+      "ownerLabel": "Hollow gold frames, set of three",
+      "status": "unpublished",
+      "holdReason": "Hollow gold frames (set of three). Not published; Amulet Frames stays empty until the owner authorizes it",
+      "images": [
+        {
+          "file": "KR-007_01_main.jpg",
+          "stem": "KR-007_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "60006C65-8988-4427-A065-D72918B1392A.JPEG",
+          "md5": "55a15a9974ee67b3dcbfe9f2c6cb8b74",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-007/KR-007_01_main-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-007/KR-007_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-007/KR-007_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        },
+        {
+          "file": "KR-007_02_detail.jpg",
+          "stem": "KR-007_02_detail",
+          "role": "detail",
+          "sort": 2,
+          "ownerFilename": "766A1FB5-AB5F-4821-A482-FC39374C7C5F.JPEG",
+          "md5": "dbfa861e8d0ab4126cdfec2672471a24",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-007/KR-007_02_detail-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-007/KR-007_02_detail-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-007/KR-007_02_detail-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-008",
+      "folder": "KR-008_Ring",
+      "ownerType": "Ring",
+      "ownerLabel": "Gold Diamond Band Ring",
+      "status": "integrated",
+      "holdReason": null,
+      "images": [
+        {
+          "file": "KR-008_01_main.jpg",
+          "stem": "KR-008_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "661885C3-F4CF-439E-B9EA-937BA6CCA7C5.JPEG",
+          "md5": "8413e3ccdbd3a43152861636773b4662",
+          "origWidth": 600,
+          "origHeight": 800,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-008/KR-008_01_main-gallery.jpg",
+              "width": 600,
+              "height": 800
+            },
+            "card": {
+              "src": "/images/catalog/KR-008/KR-008_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-008/KR-008_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        },
+        {
+          "file": "KR-008_02_detail.jpg",
+          "stem": "KR-008_02_detail",
+          "role": "detail",
+          "sort": 2,
+          "ownerFilename": "86001236-87DE-4B22-8731-4B7E63F86D78.JPEG",
+          "md5": "5094c9eead2e8b2041b02029afbb98fb",
+          "origWidth": 601,
+          "origHeight": 800,
+          "edits": [
+            "price/spec text overlay cropped out"
+          ],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-008/KR-008_02_detail-gallery.jpg",
+              "width": 601,
+              "height": 480
+            },
+            "card": {
+              "src": "/images/catalog/KR-008/KR-008_02_detail-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-008/KR-008_02_detail-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-009",
+      "folder": "KR-009_Ring",
+      "ownerType": "Ring",
+      "ownerLabel": "Gold Square Diamond Ring",
+      "status": "integrated",
+      "holdReason": null,
+      "images": [
+        {
+          "file": "KR-009_01_main.jpg",
+          "stem": "KR-009_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "869F31F0-9E32-4C2F-A4B5-5DCDADD74787.JPEG",
+          "md5": "0ef1c61849cac1208780ee9e2bd3ea81",
+          "origWidth": 601,
+          "origHeight": 800,
+          "edits": [
+            "price/spec text overlay cropped out"
+          ],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-009/KR-009_01_main-gallery.jpg",
+              "width": 601,
+              "height": 576
+            },
+            "card": {
+              "src": "/images/catalog/KR-009/KR-009_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-009/KR-009_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        },
+        {
+          "file": "KR-009_02_detail.jpg",
+          "stem": "KR-009_02_detail",
+          "role": "detail",
+          "sort": 2,
+          "ownerFilename": "98528480-668C-49C2-9DF5-9634368E92BD.JPEG",
+          "md5": "c245f9f325d78e32e8450be17e6d37e9",
+          "origWidth": 600,
+          "origHeight": 800,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-009/KR-009_02_detail-gallery.jpg",
+              "width": 600,
+              "height": 800
+            },
+            "card": {
+              "src": "/images/catalog/KR-009/KR-009_02_detail-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-009/KR-009_02_detail-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-010",
+      "folder": "KR-010_Necklace",
+      "ownerType": "Necklace",
+      "ownerLabel": "Serpenti / Snake Head Necklace",
+      "status": "integrated",
+      "holdReason": null,
+      "images": [
+        {
+          "file": "KR-010_01_main.jpg",
+          "stem": "KR-010_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "56855F81-27B0-44BD-BAD9-79763DC37838.JPEG",
+          "md5": "6787ee9bf61d534c7c7abef6a0ef73d8",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-010/KR-010_01_main-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-010/KR-010_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-010/KR-010_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        },
+        {
+          "file": "KR-010_02_detail.jpg",
+          "stem": "KR-010_02_detail",
+          "role": "detail",
+          "sort": 2,
+          "ownerFilename": "EFE5545D-FE15-44A2-B036-3BD1EB813702.JPEG",
+          "md5": "23ba4e1e2fd679d8c124877a96fb80b9",
+          "origWidth": 450,
+          "origHeight": 800,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-010/KR-010_02_detail-gallery.jpg",
+              "width": 450,
+              "height": 800
+            },
+            "card": {
+              "src": "/images/catalog/KR-010/KR-010_02_detail-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-010/KR-010_02_detail-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-011",
+      "folder": "KR-011_Earrings",
+      "ownerType": "Earrings",
+      "ownerLabel": "Cartier Panther Fringe Earrings",
+      "status": "integrated",
+      "holdReason": null,
+      "images": [
+        {
+          "file": "KR-011_01_main.jpg",
+          "stem": "KR-011_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "7AF1FF0B-B174-44C6-B598-7B5C3FAFC3FB.JPEG",
+          "md5": "47b00f61b9b7596c7e57c0a76f9afd88",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-011/KR-011_01_main-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-011/KR-011_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-011/KR-011_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        },
+        {
+          "file": "KR-011_02_detail.jpg",
+          "stem": "KR-011_02_detail",
+          "role": "detail",
+          "sort": 2,
+          "ownerFilename": "AE8F8E3E-B8A2-4AB0-99D1-0F391FF334F0.JPEG",
+          "md5": "538e1438f913ce57701fe78e0f860250",
+          "origWidth": 600,
+          "origHeight": 800,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-011/KR-011_02_detail-gallery.jpg",
+              "width": 600,
+              "height": 800
+            },
+            "card": {
+              "src": "/images/catalog/KR-011/KR-011_02_detail-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-011/KR-011_02_detail-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-012",
+      "folder": "KR-012_Silverware",
+      "ownerType": "Silverware",
+      "ownerLabel": "Silver Cutlery Set",
+      "status": "integrated",
+      "holdReason": null,
+      "images": [
+        {
+          "file": "KR-012_01_main.jpg",
+          "stem": "KR-012_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "1BDB0DAA-49E4-462E-9CC0-730C58432BE0.JPEG",
+          "md5": "b389e8a54e14fe0825ab747c6fc22894",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-012/KR-012_01_main-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-012/KR-012_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-012/KR-012_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        },
+        {
+          "file": "KR-012_02_detail.jpg",
+          "stem": "KR-012_02_detail",
+          "role": "detail",
+          "sort": 2,
+          "ownerFilename": "CBF9F220-6430-4EEC-81DC-DC434B6D1834.JPEG",
+          "md5": "f45546f30d82ca1def2d63cff51a1dab",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-012/KR-012_02_detail-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-012/KR-012_02_detail-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-012/KR-012_02_detail-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-013",
+      "folder": "KR-013_Jewelry_Set",
+      "ownerType": "Jewelry Set",
+      "ownerLabel": "Diamond Jewelry Mix (in hand)",
+      "status": "integrated",
+      "holdReason": null,
+      "images": [
+        {
+          "file": "KR-013_01_main.jpg",
+          "stem": "KR-013_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "A458830C-E318-4A54-AD10-40AFB9BC29AA.JPEG",
+          "md5": "fd15b2523a9322c9f6ee43a170ec8456",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-013/KR-013_01_main-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-013/KR-013_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-013/KR-013_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-014",
+      "folder": "KR-014_Pendant",
+      "ownerType": "Mixed Gold",
+      "ownerLabel": "Mixed gold pieces on a tray (owner labels of KR-014 and KR-016 were swapped)",
+      "status": "integrated",
+      "holdReason": null,
+      "images": [
+        {
+          "file": "KR-014_01_main.jpg",
+          "stem": "KR-014_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "B6F4C729-B72A-4375-8A5E-3BE6640806F3.JPEG",
+          "md5": "abbacb57feee08c2e533fd7918ef08e5",
+          "origWidth": 450,
+          "origHeight": 800,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-014/KR-014_01_main-gallery.jpg",
+              "width": 450,
+              "height": 800
+            },
+            "card": {
+              "src": "/images/catalog/KR-014/KR-014_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-014/KR-014_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-015",
+      "folder": "KR-015_Pendant",
+      "ownerType": "Pendant",
+      "ownerLabel": "Buddha amulet pendant, front and inscribed reverse",
+      "status": "unpublished",
+      "holdReason": "Buddha amulet pendant (front and inscribed reverse). Not published; Amulet Frames stays empty until the owner authorizes it",
+      "images": [
+        {
+          "file": "KR-015_01_main.jpg",
+          "stem": "KR-015_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "AB9F00FE-8436-4E3B-A0E9-E3AE2CDB7C59.JPEG",
+          "md5": "0ed7d03d6ad547e64d558c976eb2aedf",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-015/KR-015_01_main-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-015/KR-015_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-015/KR-015_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        },
+        {
+          "file": "KR-015_02_detail.jpg",
+          "stem": "KR-015_02_detail",
+          "role": "detail",
+          "sort": 2,
+          "ownerFilename": "8D7DB3DD-AFE7-4333-8AE7-1819B2E8FF24.JPEG",
+          "md5": "67b7c5cc87719c7e5f16b1c47a8af689",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-015/KR-015_02_detail-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-015/KR-015_02_detail-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-015/KR-015_02_detail-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-016",
+      "folder": "KR-016_Mixed_Gold",
+      "ownerType": "Mixed Gold",
+      "ownerLabel": "Duplicate of KR-003_06 (belt)",
+      "status": "duplicate",
+      "holdReason": "Exact duplicate of KR-003_06 (the belt). Not used twice",
+      "images": [
+        {
+          "file": "KR-016_01_main.jpg",
+          "stem": "KR-016_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "ABFB49FA-2AB4-4572-9388-4C0F0216172F.JPEG",
+          "md5": "59a3884e033277033c6c164fe9fe70b1",
+          "origWidth": 800,
+          "origHeight": 600,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-016/KR-016_01_main-gallery.jpg",
+              "width": 800,
+              "height": 600
+            },
+            "card": {
+              "src": "/images/catalog/KR-016/KR-016_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-016/KR-016_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-017",
+      "folder": "KR-017_Ring",
+      "ownerType": "Ring",
+      "ownerLabel": "Jubilee diamond ring (owner-confirmed genuine Jubilee item)",
+      "status": "integrated",
+      "holdReason": null,
+      "images": [
+        {
+          "file": "KR-017_01_main.jpg",
+          "stem": "KR-017_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "E079D782-CB17-499F-BCB8-C650B21DAD85.JPEG",
+          "md5": "ff5907d122e23e12ea6824b931c7f6a4",
+          "origWidth": 368,
+          "origHeight": 800,
+          "edits": [
+            "price/spec text overlay cropped out",
+            "re-cropped Nov 20 2026 so the whole ring and stone are inside the frame"
+          ],
+          "flag": "original contains a price slip; cropped to the ring only",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-017/KR-017_01_main-gallery.jpg",
+              "width": 230,
+              "height": 288
+            },
+            "card": {
+              "src": "/images/catalog/KR-017/KR-017_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-017/KR-017_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR-STORE",
+      "folder": "KR-STORE_Store",
+      "ownerType": "Store",
+      "ownerLabel": "Store staff photo (About page)",
+      "status": "about",
+      "holdReason": "Genuine store photo for the About page (owner-approved); not a product image",
+      "images": [
+        {
+          "file": "KR-STORE_01_main.jpg",
+          "stem": "KR-STORE_01_main",
+          "role": "main",
+          "sort": 1,
+          "ownerFilename": "IMG_3347.JPG",
+          "md5": "c96c405a36dbb89f4a249417602f7d51",
+          "origWidth": 600,
+          "origHeight": 800,
+          "edits": [],
+          "flag": "",
+          "variants": {
+            "gallery": {
+              "src": "/images/catalog/KR-STORE/KR-STORE_01_main-gallery.jpg",
+              "width": 600,
+              "height": 800
+            },
+            "card": {
+              "src": "/images/catalog/KR-STORE/KR-STORE_01_main-card.jpg",
+              "width": 480,
+              "height": 600
+            },
+            "thumb": {
+              "src": "/images/catalog/KR-STORE/KR-STORE_01_main-thumb.jpg",
+              "width": 240,
+              "height": 300
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
