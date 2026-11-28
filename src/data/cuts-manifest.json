@@ -1,0 +1,1638 @@
+{
+ "source": "Cuts_Luxury_English_Folders.zip",
+ "groups": [
+  {
+   "id": "kr-001-extra",
+   "folder": "001_ROLEX_GREEN_DIAL_WATCH",
+   "label": "ROLEX GREEN DIAL WATCH",
+   "images": [
+    {
+     "stem": "PR-KR-007_01",
+     "file": "001_ROLEX_GREEN_DIAL_WATCH/PRODUCT_ASSETS/KR-007/KR-007_01.jpg",
+     "md5": "f876c14ba273247d51293ca0d568a01a",
+     "origWidth": 720,
+     "origHeight": 960,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/KR-007/PR-KR-007_01-gallery.jpg",
+       "width": 720,
+       "height": 960
+      },
+      "card": {
+       "src": "/images/products/KR-007/PR-KR-007_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/KR-007/PR-KR-007_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-KR-007_02",
+     "file": "001_ROLEX_GREEN_DIAL_WATCH/PRODUCT_ASSETS/KR-007/KR-007_02.jpg",
+     "md5": "85e508296a07e2df9fa2ef585138144c",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/KR-007/PR-KR-007_02-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/KR-007/PR-KR-007_02-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/KR-007/PR-KR-007_02-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-KR-007_03",
+     "file": "001_ROLEX_GREEN_DIAL_WATCH/PRODUCT_ASSETS/KR-007/KR-007_03.jpg",
+     "md5": "91ff433fbcd7cb7570c72c0d83f87ef1",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/KR-007/PR-KR-007_03-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/KR-007/PR-KR-007_03-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/KR-007/PR-KR-007_03-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ],
+   "mergeInto": "kr-001"
+  },
+  {
+   "id": "cuts-002",
+   "folder": "002_OVERSIZED_DIAMOND_RING",
+   "label": "OVERSIZED DIAMOND RING",
+   "images": [
+    {
+     "stem": "PR-CUTS-002_KR-002_01",
+     "file": "002_OVERSIZED_DIAMOND_RING/PRODUCT_ASSETS/JUBILEE_18K_GOLD_DIAMOND_RING_0.70CT/KR-002_01.jpg",
+     "md5": "cad2b0d10693230fada3731f197e0b36",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-002_KR-002_02",
+     "file": "002_OVERSIZED_DIAMOND_RING/PRODUCT_ASSETS/JUBILEE_18K_GOLD_DIAMOND_RING_0.70CT/KR-002_02.jpg",
+     "md5": "32b4f3625e845d4df841435768468620",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_02-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_02-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_02-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-002_KR-002_03",
+     "file": "002_OVERSIZED_DIAMOND_RING/PRODUCT_ASSETS/JUBILEE_18K_GOLD_DIAMOND_RING_0.70CT/KR-002_03.jpg",
+     "md5": "b77e11c10076c26c8ce8989f5e36f8e4",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_03-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_03-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_03-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-002_KR-002_05",
+     "file": "002_OVERSIZED_DIAMOND_RING/PRODUCT_ASSETS/JUBILEE_18K_GOLD_DIAMOND_RING_0.70CT/KR-002_05.jpg",
+     "md5": "82989741848a28cb9461aa852c07d692",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_05-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_05-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_05-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-002_KR-002_06",
+     "file": "002_OVERSIZED_DIAMOND_RING/PRODUCT_ASSETS/JUBILEE_18K_GOLD_DIAMOND_RING_0.70CT/KR-002_06.jpg",
+     "md5": "b37d3599b2c6068b66372bf510f54dd1",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_06-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_06-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-002/PR-CUTS-002_KR-002_06-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-003",
+   "folder": "003_KR-001_CARTIER_JEWELRY",
+   "label": "KR-001 CARTIER JEWELRY",
+   "images": [
+    {
+     "stem": "PR-CUTS-003_KR-001_01",
+     "file": "003_KR-001_CARTIER_JEWELRY/PRODUCT_ASSETS/KR-001/KR-001_01.jpg",
+     "md5": "8feebeee8c392106c47cef075325329d",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-003/PR-CUTS-003_KR-001_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-003/PR-CUTS-003_KR-001_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-003/PR-CUTS-003_KR-001_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-003_KR-001_02",
+     "file": "003_KR-001_CARTIER_JEWELRY/PRODUCT_ASSETS/KR-001/KR-001_02.jpg",
+     "md5": "b02fc1d975eae22be1c303ef0e14fa3b",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-003/PR-CUTS-003_KR-001_02-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-003/PR-CUTS-003_KR-001_02-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-003/PR-CUTS-003_KR-001_02-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-003_KR-001_03",
+     "file": "003_KR-001_CARTIER_JEWELRY/PRODUCT_ASSETS/KR-001/KR-001_03.jpg",
+     "md5": "d26392e12f7c045a5d38c5c5a70ef39a",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-003/PR-CUTS-003_KR-001_03-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-003/PR-CUTS-003_KR-001_03-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-003/PR-CUTS-003_KR-001_03-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-003_KR-001_04",
+     "file": "003_KR-001_CARTIER_JEWELRY/PRODUCT_ASSETS/KR-001/KR-001_04.jpg",
+     "md5": "de2bb33ea28cf81dda1eded43e98df26",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-003/PR-CUTS-003_KR-001_04-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-003/PR-CUTS-003_KR-001_04-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-003/PR-CUTS-003_KR-001_04-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-005",
+   "folder": "005_KR-004_BVLGARI_EARRINGS",
+   "label": "KR-004 BVLGARI EARRINGS",
+   "images": [
+    {
+     "stem": "PR-CUTS-005_KR-004_01",
+     "file": "005_KR-004_BVLGARI_EARRINGS/BVLGARI_CIRCULAR_JEWELRY/PRODUCT_ASSETS/KR-004/KR-004_01.jpg",
+     "md5": "9e78c00038812efea33016837cc5dcca",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-005/PR-CUTS-005_KR-004_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-005/PR-CUTS-005_KR-004_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-005/PR-CUTS-005_KR-004_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-005_KR-004_02",
+     "file": "005_KR-004_BVLGARI_EARRINGS/BVLGARI_CIRCULAR_JEWELRY/PRODUCT_ASSETS/KR-004/KR-004_02.jpg",
+     "md5": "80684f002b0eac9b27eb095cf618adad",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-005/PR-CUTS-005_KR-004_02-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-005/PR-CUTS-005_KR-004_02-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-005/PR-CUTS-005_KR-004_02-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-005_KR-004_03",
+     "file": "005_KR-004_BVLGARI_EARRINGS/BVLGARI_CIRCULAR_JEWELRY/PRODUCT_ASSETS/KR-004/KR-004_03.jpg",
+     "md5": "3b6a44946eaf99a3d52c04b3193681c8",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-005/PR-CUTS-005_KR-004_03-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-005/PR-CUTS-005_KR-004_03-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-005/PR-CUTS-005_KR-004_03-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-005_KR-004_04",
+     "file": "005_KR-004_BVLGARI_EARRINGS/BVLGARI_CIRCULAR_JEWELRY/PRODUCT_ASSETS/KR-004/KR-004_04.jpg",
+     "md5": "bca2d9975e8e01257ad0f418fcbd3b2c",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-005/PR-CUTS-005_KR-004_04-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-005/PR-CUTS-005_KR-004_04-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-005/PR-CUTS-005_KR-004_04-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-006",
+   "folder": "006_KR-005_BLACK_CERAMIC_RING",
+   "label": "KR-005 BLACK CERAMIC RING",
+   "images": [
+    {
+     "stem": "PR-CUTS-006_KR-005_01",
+     "file": "006_KR-005_BLACK_CERAMIC_RING/PRODUCT_ASSETS/BVLGARI_ZERO_1_BLACK_CERAMIC_AND_PINK_GOLD/KR-005_01.jpg",
+     "md5": "fe0485a67e7d5f5ed3847e924471a881",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-006/PR-CUTS-006_KR-005_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-006/PR-CUTS-006_KR-005_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-006/PR-CUTS-006_KR-005_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-006_KR-005_02",
+     "file": "006_KR-005_BLACK_CERAMIC_RING/PRODUCT_ASSETS/BVLGARI_ZERO_1_BLACK_CERAMIC_AND_PINK_GOLD/KR-005_02.jpg",
+     "md5": "81ad5ffa7e9b9e6ad2c7859824627020",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-006/PR-CUTS-006_KR-005_02-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-006/PR-CUTS-006_KR-005_02-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-006/PR-CUTS-006_KR-005_02-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-006_KR-005_03",
+     "file": "006_KR-005_BLACK_CERAMIC_RING/PRODUCT_ASSETS/BVLGARI_ZERO_1_BLACK_CERAMIC_AND_PINK_GOLD/KR-005_03.jpg",
+     "md5": "02f3706bcc08b9d6458a8b438af52472",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-006/PR-CUTS-006_KR-005_03-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-006/PR-CUTS-006_KR-005_03-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-006/PR-CUTS-006_KR-005_03-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-006_KR-005_04",
+     "file": "006_KR-005_BLACK_CERAMIC_RING/PRODUCT_ASSETS/BVLGARI_ZERO_1_BLACK_CERAMIC_AND_PINK_GOLD/KR-005_04.jpg",
+     "md5": "6bff10595287fac35343e57b07fb2fe5",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-006/PR-CUTS-006_KR-005_04-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-006/PR-CUTS-006_KR-005_04-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-006/PR-CUTS-006_KR-005_04-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-007",
+   "folder": "007_KR-006_JUBILEE_DIAMOND_PENDANT_NECKLACE",
+   "label": "KR-006 JUBILEE DIAMOND PENDANT NECKLACE",
+   "images": [
+    {
+     "stem": "PR-CUTS-007_KR-006_04",
+     "file": "007_KR-006_JUBILEE_DIAMOND_PENDANT_NECKLACE/DIAMOND_PENDANT_AND_NECKLACE_GIA_D_COLOR/KR-006/KR-006_04.jpg",
+     "md5": "90f059b276e21c0773f6257572a96921",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-007/PR-CUTS-007_KR-006_04-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-007/PR-CUTS-007_KR-006_04-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-007/PR-CUTS-007_KR-006_04-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-008",
+   "folder": "008_KR-008_CHANEL_J12_WHITE_CERAMIC_WATCH",
+   "label": "KR-008 CHANEL J12 WHITE CERAMIC WATCH",
+   "images": [
+    {
+     "stem": "PR-CUTS-008_KR-008_01",
+     "file": "008_KR-008_CHANEL_J12_WHITE_CERAMIC_WATCH/CHANEL_J12_WHITE_CERAMIC_DIAMOND_BEZEL_38MM/KR-008/KR-008_01.jpg",
+     "md5": "07feb40c0ad43271232a051388702976",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-008/PR-CUTS-008_KR-008_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-008/PR-CUTS-008_KR-008_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-008/PR-CUTS-008_KR-008_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-008_KR-008_02",
+     "file": "008_KR-008_CHANEL_J12_WHITE_CERAMIC_WATCH/CHANEL_J12_WHITE_CERAMIC_DIAMOND_BEZEL_38MM/KR-008/KR-008_02.jpg",
+     "md5": "14fe349ebc520514afe8089fcb72a579",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-008/PR-CUTS-008_KR-008_02-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-008/PR-CUTS-008_KR-008_02-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-008/PR-CUTS-008_KR-008_02-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-008_KR-008_03",
+     "file": "008_KR-008_CHANEL_J12_WHITE_CERAMIC_WATCH/CHANEL_J12_WHITE_CERAMIC_DIAMOND_BEZEL_38MM/KR-008/KR-008_03.jpg",
+     "md5": "f6ac36e270a8126a4ae9026d5f42f7f9",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-008/PR-CUTS-008_KR-008_03-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-008/PR-CUTS-008_KR-008_03-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-008/PR-CUTS-008_KR-008_03-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-008_KR-008_04",
+     "file": "008_KR-008_CHANEL_J12_WHITE_CERAMIC_WATCH/CHANEL_J12_WHITE_CERAMIC_DIAMOND_BEZEL_38MM/KR-008/KR-008_04.jpg",
+     "md5": "b77b0e8f563773e5d880adfce28831d7",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-008/PR-CUTS-008_KR-008_04-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-008/PR-CUTS-008_KR-008_04-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-008/PR-CUTS-008_KR-008_04-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-009",
+   "folder": "009_KR-009_VAN_CLEEF_NECKLACE_AND_EARRINGS",
+   "label": "KR-009 VAN CLEEF NECKLACE AND EARRINGS",
+   "images": [
+    {
+     "stem": "PR-CUTS-009_KR-009_01",
+     "file": "009_KR-009_VAN_CLEEF_NECKLACE_AND_EARRINGS/PRODUCT_ASSETS/VAN_CLEEF_18K_JEWELRY/KR-009_01.jpg",
+     "md5": "11d9f2395956964874042bf5108f5816",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-009/PR-CUTS-009_KR-009_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-009/PR-CUTS-009_KR-009_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-009/PR-CUTS-009_KR-009_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-009_KR-009_02",
+     "file": "009_KR-009_VAN_CLEEF_NECKLACE_AND_EARRINGS/PRODUCT_ASSETS/VAN_CLEEF_18K_JEWELRY/KR-009_02.jpg",
+     "md5": "f6ef1e823c679c47dae12e0856464868",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-009/PR-CUTS-009_KR-009_02-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-009/PR-CUTS-009_KR-009_02-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-009/PR-CUTS-009_KR-009_02-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-009_KR-009_03",
+     "file": "009_KR-009_VAN_CLEEF_NECKLACE_AND_EARRINGS/PRODUCT_ASSETS/VAN_CLEEF_18K_JEWELRY/KR-009_03.jpg",
+     "md5": "dc69011a05dcd999a35e4090768f98ab",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-009/PR-CUTS-009_KR-009_03-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-009/PR-CUTS-009_KR-009_03-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-009/PR-CUTS-009_KR-009_03-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-010",
+   "folder": "010_KR-010_TIFFANY_T_ROSE_GOLD_BANGLE",
+   "label": "KR-010 TIFFANY T ROSE GOLD BANGLE",
+   "images": [
+    {
+     "stem": "PR-CUTS-010_KR-010_02",
+     "file": "010_KR-010_TIFFANY_T_ROSE_GOLD_BANGLE/mla Tiffany Tun Rose gold Size 16-17/KR-010/KR-010_02.jpg",
+     "md5": "d98d4a4d35b17f0f9b084e17997a266a",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-010/PR-CUTS-010_KR-010_02-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-010/PR-CUTS-010_KR-010_02-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-010/PR-CUTS-010_KR-010_02-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-010_KR-010_03",
+     "file": "010_KR-010_TIFFANY_T_ROSE_GOLD_BANGLE/mla Tiffany Tun Rose gold Size 16-17/KR-010/KR-010_03.jpg",
+     "md5": "c82abd8d23248de8ba846c34a6f3c99e",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-010/PR-CUTS-010_KR-010_03-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-010/PR-CUTS-010_KR-010_03-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-010/PR-CUTS-010_KR-010_03-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-010_KR-010_04",
+     "file": "010_KR-010_TIFFANY_T_ROSE_GOLD_BANGLE/mla Tiffany Tun Rose gold Size 16-17/KR-010/KR-010_04.jpg",
+     "md5": "7a520b767731588128a9750dbba7e33e",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-010/PR-CUTS-010_KR-010_04-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-010/PR-CUTS-010_KR-010_04-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-010/PR-CUTS-010_KR-010_04-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-011",
+   "folder": "011_KR-011_CHANEL_DIAMOND_EARRINGS",
+   "label": "KR-011 CHANEL DIAMOND EARRINGS",
+   "images": [
+    {
+     "stem": "PR-CUTS-011_KR-011_01",
+     "file": "011_KR-011_CHANEL_DIAMOND_EARRINGS/CHANEL_18K_GOLD_DIAMOND_EARRINGS_CERTIFICATE/KR-011/KR-011_01.jpg",
+     "md5": "2d9483a72a30dab374b914ab120ad431",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-011/PR-CUTS-011_KR-011_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-011/PR-CUTS-011_KR-011_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-011/PR-CUTS-011_KR-011_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-012",
+   "folder": "012_KR-012_STATEMENT_DIAMOND_RINGS",
+   "label": "KR-012 STATEMENT DIAMOND RINGS",
+   "images": [
+    {
+     "stem": "PR-CUTS-012_KR-012_01",
+     "file": "012_KR-012_STATEMENT_DIAMOND_RINGS/PRODUCT_ASSETS/KR-012/KR-012_01.jpg",
+     "md5": "88eea69969c9f952d05f1a0331e215f9",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-012/PR-CUTS-012_KR-012_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-012/PR-CUTS-012_KR-012_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-012/PR-CUTS-012_KR-012_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-012_KR-012_02",
+     "file": "012_KR-012_STATEMENT_DIAMOND_RINGS/PRODUCT_ASSETS/KR-012/KR-012_02.jpg",
+     "md5": "2ce6e929062ed8ade421a25d28341654",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-012/PR-CUTS-012_KR-012_02-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-012/PR-CUTS-012_KR-012_02-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-012/PR-CUTS-012_KR-012_02-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-012_KR-012_03",
+     "file": "012_KR-012_STATEMENT_DIAMOND_RINGS/PRODUCT_ASSETS/KR-012/KR-012_03.jpg",
+     "md5": "84f64272c6638270a9664b7ab8d5a005",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-012/PR-CUTS-012_KR-012_03-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-012/PR-CUTS-012_KR-012_03-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-012/PR-CUTS-012_KR-012_03-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-013",
+   "folder": "013_KR-013_BVLGARI_DIAMOND_RING",
+   "label": "KR-013 BVLGARI DIAMOND RING",
+   "images": [
+    {
+     "stem": "PR-CUTS-013_KR-013_02",
+     "file": "013_KR-013_BVLGARI_DIAMOND_RING/PRODUCT_ASSETS/Cartier zero/KR-013_02.jpg",
+     "md5": "25756c57fabb7434bc259e1ef3c842f0",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-013/PR-CUTS-013_KR-013_02-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-013/PR-CUTS-013_KR-013_02-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-013/PR-CUTS-013_KR-013_02-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-013_KR-013_03",
+     "file": "013_KR-013_BVLGARI_DIAMOND_RING/PRODUCT_ASSETS/Cartier zero/KR-013_03.jpg",
+     "md5": "5a8121aeaaa5db0db4e01a72539d911a",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-013/PR-CUTS-013_KR-013_03-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-013/PR-CUTS-013_KR-013_03-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-013/PR-CUTS-013_KR-013_03-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-014",
+   "folder": "014_KR-014_GOLD_DIAMOND_RING",
+   "label": "KR-014 GOLD DIAMOND RING",
+   "images": [
+    {
+     "stem": "PR-CUTS-014_KR-014_01",
+     "file": "014_KR-014_GOLD_DIAMOND_RING/PRODUCT_ASSETS/KR-014/KR-014_01.jpg",
+     "md5": "1ac1886466492f794b27ca35a6f919ed",
+     "origWidth": 842,
+     "origHeight": 960,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-014/PR-CUTS-014_KR-014_01-gallery.jpg",
+       "width": 842,
+       "height": 960
+      },
+      "card": {
+       "src": "/images/products/cuts-014/PR-CUTS-014_KR-014_01-card.jpg",
+       "width": 480,
+       "height": 547
+      },
+      "thumb": {
+       "src": "/images/products/cuts-014/PR-CUTS-014_KR-014_01-thumb.jpg",
+       "width": 240,
+       "height": 274
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-015",
+   "folder": "015_KR-015_DIAMOND_RING",
+   "label": "KR-015 DIAMOND RING",
+   "images": [
+    {
+     "stem": "PR-CUTS-015_KR-015_01",
+     "file": "015_KR-015_DIAMOND_RING/PRODUCT_ASSETS/KR-015/KR-015_01.jpg",
+     "md5": "881ad5a26c10b5ac23976b8b83b75b72",
+     "origWidth": 1176,
+     "origHeight": 1257,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-015/PR-CUTS-015_KR-015_01-gallery.jpg",
+       "width": 1050,
+       "height": 1122
+      },
+      "card": {
+       "src": "/images/products/cuts-015/PR-CUTS-015_KR-015_01-card.jpg",
+       "width": 480,
+       "height": 513
+      },
+      "thumb": {
+       "src": "/images/products/cuts-015/PR-CUTS-015_KR-015_01-thumb.jpg",
+       "width": 240,
+       "height": 257
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-015_KR-016_01",
+     "file": "015_KR-015_DIAMOND_RING/PRODUCT_ASSETS/KR-015/KR-016_01.jpg",
+     "md5": "5c4c1e1f22ab59efe8acc4091ac9646c",
+     "origWidth": 1166,
+     "origHeight": 1153,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-015/PR-CUTS-015_KR-016_01-gallery.jpg",
+       "width": 1050,
+       "height": 1038
+      },
+      "card": {
+       "src": "/images/products/cuts-015/PR-CUTS-015_KR-016_01-card.jpg",
+       "width": 480,
+       "height": 475
+      },
+      "thumb": {
+       "src": "/images/products/cuts-015/PR-CUTS-015_KR-016_01-thumb.jpg",
+       "width": 240,
+       "height": 237
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-017",
+   "folder": "017_KR-017_DIAMOND_RING",
+   "label": "KR-017 DIAMOND RING",
+   "images": [
+    {
+     "stem": "PR-CUTS-017_KR-017_01",
+     "file": "017_KR-017_DIAMOND_RING/PRODUCT_ASSETS/KR-017/KR-017_01.jpg",
+     "md5": "e26f895d4b19ebefc730be51c3ec6868",
+     "origWidth": 960,
+     "origHeight": 822,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-017/PR-CUTS-017_KR-017_01-gallery.jpg",
+       "width": 960,
+       "height": 822
+      },
+      "card": {
+       "src": "/images/products/cuts-017/PR-CUTS-017_KR-017_01-card.jpg",
+       "width": 480,
+       "height": 411
+      },
+      "thumb": {
+       "src": "/images/products/cuts-017/PR-CUTS-017_KR-017_01-thumb.jpg",
+       "width": 240,
+       "height": 206
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-020",
+   "folder": "020_KR-022_DIAMOND_SNAKE_PENDANT_NECKLACE",
+   "label": "KR-022 DIAMOND SNAKE PENDANT NECKLACE",
+   "images": [
+    {
+     "stem": "PR-CUTS-020_Necklace Snake Pandant",
+     "file": "020_KR-022_DIAMOND_SNAKE_PENDANT_NECKLACE/PRODUCT_ASSETS/KR-022/Necklace Snake Pandant.jpg",
+     "md5": "0a09fc0d9dcb9da1109689f8b66bcf14",
+     "origWidth": 720,
+     "origHeight": 960,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-020/PR-CUTS-020_Necklace Snake Pandant-gallery.jpg",
+       "width": 720,
+       "height": 960
+      },
+      "card": {
+       "src": "/images/products/cuts-020/PR-CUTS-020_Necklace Snake Pandant-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-020/PR-CUTS-020_Necklace Snake Pandant-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-020_Necklace snake pendant ",
+     "file": "020_KR-022_DIAMOND_SNAKE_PENDANT_NECKLACE/PRODUCT_ASSETS/KR-022/Necklace snake pendant .jpg",
+     "md5": "8394dc50b930307062d50ec61d7a8687",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-020/PR-CUTS-020_Necklace snake pendant -gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-020/PR-CUTS-020_Necklace snake pendant -card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-020/PR-CUTS-020_Necklace snake pendant -thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-022",
+   "folder": "022_KR-024_CARTIER_RING",
+   "label": "KR-024 CARTIER RING",
+   "images": [
+    {
+     "stem": "PR-CUTS-022_KR-024_01",
+     "file": "022_KR-024_CARTIER_RING/PRODUCT_ASSETS/KR-024/KR-024_01.jpg",
+     "md5": "78aa649249bd16b8ae95ca39fd27000e",
+     "origWidth": 540,
+     "origHeight": 960,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-022/PR-CUTS-022_KR-024_01-gallery.jpg",
+       "width": 540,
+       "height": 960
+      },
+      "card": {
+       "src": "/images/products/cuts-022/PR-CUTS-022_KR-024_01-card.jpg",
+       "width": 360,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-022/PR-CUTS-022_KR-024_01-thumb.jpg",
+       "width": 180,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-022_KR-025_01",
+     "file": "022_KR-024_CARTIER_RING/PRODUCT_ASSETS/KR-024/KR-025_01.jpg",
+     "md5": "e91b906c965cfcf2db45d1508ffe8635",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-022/PR-CUTS-022_KR-025_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-022/PR-CUTS-022_KR-025_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-022/PR-CUTS-022_KR-025_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-022_KR-026_01",
+     "file": "022_KR-024_CARTIER_RING/PRODUCT_ASSETS/KR-024/KR-026_01.jpg",
+     "md5": "a221388422abf6e1144cf2f130fc6f86",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-022/PR-CUTS-022_KR-026_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-022/PR-CUTS-022_KR-026_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-022/PR-CUTS-022_KR-026_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-028",
+   "folder": "028_KR-030_DIAMOND_COUPLE_RINGS",
+   "label": "KR-030 DIAMOND COUPLE RINGS",
+   "images": [
+    {
+     "stem": "PR-CUTS-028_KR-030_01",
+     "file": "028_KR-030_DIAMOND_COUPLE_RINGS/18K_GOLD_DIAMOND_WEDDING_BANDS/KR-030/KR-030_01.jpg",
+     "md5": "cdc4af2c28f5dafd4856c1800b20a397",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-028/PR-CUTS-028_KR-030_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-028/PR-CUTS-028_KR-030_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-028/PR-CUTS-028_KR-030_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-028_KR-031_01",
+     "file": "028_KR-030_DIAMOND_COUPLE_RINGS/18K_GOLD_DIAMOND_WEDDING_BANDS/KR-030/KR-031_01.jpg",
+     "md5": "13e88beff1d3fe244ea5205815ec16b0",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-028/PR-CUTS-028_KR-031_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-028/PR-CUTS-028_KR-031_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-028/PR-CUTS-028_KR-031_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-028_KR-032_01",
+     "file": "028_KR-030_DIAMOND_COUPLE_RINGS/18K_GOLD_DIAMOND_WEDDING_BANDS/KR-030/KR-032_01.jpg",
+     "md5": "2e6f92369430f8937c106e76b8228365",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-028/PR-CUTS-028_KR-032_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-028/PR-CUTS-028_KR-032_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-028/PR-CUTS-028_KR-032_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-031",
+   "folder": "031_KR-034_14K_GOLD_NECKLACE",
+   "label": "KR-034 14K GOLD NECKLACE",
+   "images": [
+    {
+     "stem": "PR-CUTS-031_KR-034_01",
+     "file": "031_KR-034_14K_GOLD_NECKLACE/PRODUCT_ASSETS/14K_SOLID_GOLD_NECKLACE/KR-034_01.jpg",
+     "md5": "1d6decf6c53c0cde5edade7147601fc5",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-031/PR-CUTS-031_KR-034_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-031/PR-CUTS-031_KR-034_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-031/PR-CUTS-031_KR-034_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-031_KR-035_01",
+     "file": "031_KR-034_14K_GOLD_NECKLACE/PRODUCT_ASSETS/14K_SOLID_GOLD_NECKLACE/KR-035_01.jpg",
+     "md5": "eee0e8c0aec530ab7fc17d332af5c943",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-031/PR-CUTS-031_KR-035_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-031/PR-CUTS-031_KR-035_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-031/PR-CUTS-031_KR-035_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-031_KR-037_01",
+     "file": "031_KR-034_14K_GOLD_NECKLACE/PRODUCT_ASSETS/14K_SOLID_GOLD_NECKLACE/KR-037_01.jpg",
+     "md5": "698e48602681a708020cfbe5a8e46602",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-031/PR-CUTS-031_KR-037_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-031/PR-CUTS-031_KR-037_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-031/PR-CUTS-031_KR-037_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-031_KR-038_01",
+     "file": "031_KR-034_14K_GOLD_NECKLACE/PRODUCT_ASSETS/14K_SOLID_GOLD_NECKLACE/KR-038_01.jpg",
+     "md5": "53d178cf66b52f49b8f3e8a3d3954860",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-031/PR-CUTS-031_KR-038_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-031/PR-CUTS-031_KR-038_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-031/PR-CUTS-031_KR-038_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-036",
+   "folder": "036_KR-039_BOLD_SILVER_NECKLACE",
+   "label": "KR-039 BOLD SILVER NECKLACE",
+   "images": [
+    {
+     "stem": "PR-CUTS-036_KR-039_01",
+     "file": "036_KR-039_BOLD_SILVER_NECKLACE/PRODUCT_ASSETS/14K_SOLID_GOLD_BRACELET/KR-039_01.jpg",
+     "md5": "fbd24d78dc2ad9b82af9663f9a747478",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-036/PR-CUTS-036_KR-039_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-036/PR-CUTS-036_KR-039_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-036/PR-CUTS-036_KR-039_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-036_KR-040_01",
+     "file": "036_KR-039_BOLD_SILVER_NECKLACE/PRODUCT_ASSETS/14K_SOLID_GOLD_BRACELET/KR-040_01.jpg",
+     "md5": "55da1cf0690914261c5760508d6403c7",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-036/PR-CUTS-036_KR-040_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-036/PR-CUTS-036_KR-040_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-036/PR-CUTS-036_KR-040_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-036_KR-042_01",
+     "file": "036_KR-039_BOLD_SILVER_NECKLACE/PRODUCT_ASSETS/14K_SOLID_GOLD_BRACELET/KR-042_01.jpg",
+     "md5": "2bf9246bf673c14ba7a56e38d4ae6b32",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-036/PR-CUTS-036_KR-042_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-036/PR-CUTS-036_KR-042_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-036/PR-CUTS-036_KR-042_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-040",
+   "folder": "040_KR-043_STATEMENT_DIAMOND_RINGS",
+   "label": "KR-043 STATEMENT DIAMOND RINGS",
+   "images": [
+    {
+     "stem": "PR-CUTS-040_KR-043_01",
+     "file": "040_KR-043_STATEMENT_DIAMOND_RINGS/PRODUCT_ASSETS/KR-043/KR-043_01.jpg",
+     "md5": "40aa8e303d9d26eae24f82a86a28e5f2",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-040/PR-CUTS-040_KR-043_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-040/PR-CUTS-040_KR-043_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-040/PR-CUTS-040_KR-043_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-042",
+   "folder": "042_KR-045_DIAMOND_NECKLACE_AND_BRACELET",
+   "label": "KR-045 DIAMOND NECKLACE AND BRACELET",
+   "images": [
+    {
+     "stem": "PR-CUTS-042_KR-045_01",
+     "file": "042_KR-045_DIAMOND_NECKLACE_AND_BRACELET/PRODUCT_ASSETS/KR-045/KR-045_01.jpg",
+     "md5": "ad4f656ef9e7eae80ebfd53accdfc6a5",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-042/PR-CUTS-042_KR-045_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-042/PR-CUTS-042_KR-045_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-042/PR-CUTS-042_KR-045_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-044",
+   "folder": "044_KR-047_CARTIER_COUPLE_RINGS",
+   "label": "KR-047 CARTIER COUPLE RINGS",
+   "images": [
+    {
+     "stem": "PR-CUTS-044_KR-047_01",
+     "file": "044_KR-047_CARTIER_COUPLE_RINGS/PRODUCT_ASSETS/KR-047/KR-047_01.jpg",
+     "md5": "a5ef3f7d84a496883dd62bf604490af2",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-044/PR-CUTS-044_KR-047_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-044/PR-CUTS-044_KR-047_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-044/PR-CUTS-044_KR-047_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    },
+    {
+     "stem": "PR-CUTS-044_KR-048_01",
+     "file": "044_KR-047_CARTIER_COUPLE_RINGS/PRODUCT_ASSETS/KR-047/KR-048_01.jpg",
+     "md5": "92f74499fbc15f9bdcb0d6aefea0823e",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-044/PR-CUTS-044_KR-048_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-044/PR-CUTS-044_KR-048_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-044/PR-CUTS-044_KR-048_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cuts-046",
+   "folder": "046_KR-033_GOLD_NECKLACE",
+   "label": "KR-033 GOLD NECKLACE",
+   "images": [
+    {
+     "stem": "PR-CUTS-046_KR-033_01",
+     "file": "046_KR-033_GOLD_NECKLACE/PRODUCT_ASSETS/KR-033/KR-033_01.jpg",
+     "md5": "1f8a79eb001e2786c1b5a82d17d38af3",
+     "origWidth": 1500,
+     "origHeight": 2000,
+     "variants": {
+      "gallery": {
+       "src": "/images/products/cuts-046/PR-CUTS-046_KR-033_01-gallery.jpg",
+       "width": 1050,
+       "height": 1400
+      },
+      "card": {
+       "src": "/images/products/cuts-046/PR-CUTS-046_KR-033_01-card.jpg",
+       "width": 480,
+       "height": 640
+      },
+      "thumb": {
+       "src": "/images/products/cuts-046/PR-CUTS-046_KR-033_01-thumb.jpg",
+       "width": 240,
+       "height": 320
+      }
+     }
+    }
+   ]
+  }
+ ]
+}
